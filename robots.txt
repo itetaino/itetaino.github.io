@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itetaino.github.io/PVt/sitemap_index.txt
+Sitemap: https://itetaino.github.io/Yir/sitemap_index.txt
+Sitemap: https://itetaino.github.io/aiW/sitemap_index.txt
+Sitemap: https://itetaino.github.io/bAK/sitemap_index.txt
